@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://demo0.sedrev.com" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="False" userName="stoyanes_demo0" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="02/25/2014 17:03:22" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="02/25/2014 17:03:22" />
+    <file relUrl="bin/Demo0SEdrevCom.pdb" publishTime="02/25/2014 17:06:26" />
+    <file relUrl="bin/Demo0SEdrevCom.dll" publishTime="02/25/2014 17:06:26" />
+    <file relUrl="Web.config" publishTime="02/25/2014 17:07:39" />
+    <file relUrl="Styles/Site.css" publishTime="02/25/2014 17:03:22" />
+    <file relUrl="Default.aspx" publishTime="02/25/2014 17:06:36" />
+    <file relUrl="Site.Master" publishTime="02/25/2014 17:05:03" />
+    <file relUrl="Global.asax" publishTime="02/25/2014 17:03:22" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="02/25/2014 17:03:22" />
+  </publishProfile>
+</publishData>
